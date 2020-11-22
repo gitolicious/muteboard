@@ -1,0 +1,14 @@
+{
+  "name": "muteboard",
+  "version": "0.0.1",
+  "license": "ISC",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0"
+  }
+}
